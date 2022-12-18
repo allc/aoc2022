@@ -1,5 +1,4 @@
 def main():
-    # with open(r'C:\Users\DELL\Documents\Extracurricular\Competitive Programming\aoc2022\day18\input_sample.txt') as f:
     with open('input.txt') as f:
         lines = f.readlines()
     print("Part 1:", part1(lines))
